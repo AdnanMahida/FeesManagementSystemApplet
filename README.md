@@ -8,16 +8,17 @@
 ## []([AdnanMahida](https://github.com/AdnanMahida)/**[FeesManagementSystemApplet](https://github.com/AdnanMahida/FeesManagementSystemApplet)**#ScreenShot)Screenshot
 
 -   Splash screen.
----
 ![](https://raw.githubusercontent.com/AdnanMahida/FeesManagementSystemApplet/master/Screen%20Shots/loading%20screen.jpg "Splash screen")
 
--   Admin Dashboard.
 ---
+-   Admin Dashboard.
 ![](https://raw.githubusercontent.com/AdnanMahida/FeesManagementSystemApplet/master/Screen%20Shots/admin_home.png "Admin Screen")
 
-- Cashier Dashboard
 ---
+- Cashier Dashboard
 ![](https://raw.githubusercontent.com/AdnanMahida/FeesManagementSystemApplet/master/Screen%20Shots/cashierhome.png "Cashier Home")
+
+---
 
 ## How to run
 
